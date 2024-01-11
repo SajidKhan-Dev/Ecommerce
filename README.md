@@ -1,3 +1,3 @@
-#BreadcrumbsReact-JS-Weather-App
+# React-JS-Weather-App
 
 Live : https://react-js-weather-app-steel.vercel.app/
